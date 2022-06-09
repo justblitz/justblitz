@@ -1,7 +1,7 @@
 
 
 <h1><p align="center">
-  <img src="https://cdnchunk.gq/branding/content/external/github/textreadmebig.png" />
+  <img src="https://cdnchunk.tk/branding/content/external/github/textreadmebig.png" />
 </h1>
 <h2>
 <div align="center" line-spacing="0"> 
