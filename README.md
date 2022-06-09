@@ -51,7 +51,7 @@
   <hr  />
 <div align="center">
 <p>Make with ❤️ by Chunck-DEV</p>
-<p><a href="mailto:contact@rootchunck.tk">📧 Contact Me</a>
+<p><a href="mailto:contact@chunck.tk">📧 Contact Me</a>
   <p>Copyright (c) Chunck<p>
 
 </div>
