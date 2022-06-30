@@ -1,57 +1,31 @@
+# 👋| Welcome to my profile #
 
+- - - - 
 
-<h1><p align="center">
-  <img src="https://cdnchunk.tk/branding/content/external/github/textreadmebig.png" />
-</h1>
-<h2>
-<div align="center" line-spacing="0"> 
-  
-## ``` 👋 Welcome to rootchunck's profile```
-</div>
-</h2>  
-<div align="center">
-  
-  ## ``` 🔴🟡🟢rootchunck@github.com/README.md```
-</div>
-<div align="center" line-spacing="0">
-  
-## ```> ☕Discord```
-  [![Discord Presence](https://lanyard.cnrad.dev/api/943578582247157810)](https://discord.com/users/943578582247157810)
-  
-## ```> 📊My Stats```
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderNat&show_icons=true&theme=radical)
-  <hr   />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderNat&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 👨‍💻| About me #
+    👋Hi, I am nasaa an Italian guy🍕 passionate about computer science software & hardware and cyber security.
+     I started my career in 2021 when we were still in pandemic (CoVid-19) with simple tools created a bit randomly on Python🐍 and it all started from there.
 
-<div align="center" line-spacing="0">
-  
-## ```> ✏️My Skills```
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,dotnet,discord,bots," />
-  
-<div align="center" line-spacing="0">
-  
-## ```> ⚙️Skilled Using```
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,github,discord" />
-  </a>
-</p>
-  
-## ```> 📄Projects ```
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CommanderNat&show_icons=true&theme=radical&repo=ForseeTTS)](https://github.com/qweryydev/ForseeTTS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CommanderNat&show_icons=true&theme=radical&repo=Easy-Spammer.py)](https://github.com/qweryydev/Easy-Spammer.py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CommanderNat&show_icons=true&theme=radical&repo=EasyPasswordGen.py)](https://github.com/qweryydev/EasyPasswordGen.py)  
-  
-## ```> 🔗Link ```
-[![My Skills](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/qweryy.dev/)
-[![My Skills](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/qweryy_dev)
-## ```> 😎Cool people ```
-  <p><a href="https://github.com/Crunnie">Crunnie 🐈</a> | big coder big bucks </p>
-  <hr  />
-<div align="center">
-<p>Make with ❤️ by Chunck-DEV</p>
-<p><a href="mailto:contact@chunck.tk">📧 Contact Me</a>
-  <p>Copyright (c) Chunck<p>
+# ⚙️| Skills #
+![skill](https://skillicons.dev/icons?i=html,css,js,py,php,dotnet,discord,bots)
 
-</div>
+# ✏️| Skilled using #
+![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,github,discord)
+
+# 📊| Stats #
+![stats vote](https://github-readme-stats.vercel.app/api?username=rootchunk&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootchunk&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 🔗Link//Social #
+[![instagram](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/imgabb__/)
+[![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/qweryy_dev)
+# 😎| Cool people #
+<p><a href="https://github.com/Crunnie">Crunnie 🐈</a> | big coder big bucks </p>
+
+- - - - 
+
+    Make with ❤️ by nasaa
+    2021-2022 Copyright © nasaa
+    Skill icon by skillicons.dev(https://github.com/tandpfun/skill-icons)
+    Stats API by @rickstaa(https://github.com/anuraghazra/github-readme-stats)
+- - - - 
+<p><a href="mailto:contact@justnasaa.tk">📧 Contact Me</a>
