@@ -13,8 +13,8 @@
 ![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,github,discord)
 
 # 📊| Stats #
-![stats vote](https://github-readme-stats.vercel.app/api?username=rootchunk&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootchunk&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![stats vote](https://github-readme-stats.vercel.app/api?username=justnasaa&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justnasaa&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 🔗Link//Social #
 [![instagram](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/imgabb__/)
 [![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/qweryy_dev)
