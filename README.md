@@ -1,3 +1,4 @@
+<img src="sae_text.png">
 # 👋| Welcome to my profile #
 
 - - - - 
