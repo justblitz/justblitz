@@ -5,7 +5,7 @@
 - - - - 
 
 # 👨‍💻| About me #
-    👋Hi, I am sae an Italian guy🍕 passionate about computer science software & hardware and cyber security.
+    👋Hi, I am zey an Italian guy🍕 passionate about computer science software & hardware and cyber security.
      I started my career in 2021 when we were still in pandemic (CoVid-19) with simple tools created a bit randomly on Python🐍 and it all started from there.
 
 # ⚙️| Skills #
