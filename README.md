@@ -1,4 +1,4 @@
-<img src="sae_text(1).png">
+<img src="zeytext.png">
 
 # 👋| Welcome to my profile #
 
