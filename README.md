@@ -25,8 +25,8 @@
 
 - - - - 
 
-    Make with ❤️ by sae
-    2021-2022 Copyright © sae
+    Make with ❤️ by zey
+    2021-2022 Copyright © zey
     Skill icon by skillicons.dev(https://github.com/tandpfun/skill-icons)
     Stats API by @rickstaa(https://github.com/anuraghazra/github-readme-stats)
 - - - - 
