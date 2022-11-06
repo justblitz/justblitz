@@ -15,11 +15,11 @@
 ![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,unity,github,discord)
 
 # 📊| Stats #
-![stats vote](https://github-readme-stats.vercel.app/api?username=justsae&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justsae&show_icons=true&theme=dark&layout=compact)]
+![stats vote](https://github-readme-stats.vercel.app/api?username=justblitz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justblitz&show_icons=true&theme=dark&layout=compact)]
 # 🔗Link//Social #
-[![instagram](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/imgabb__/)
-[![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/saesweg)
+[![instagram](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/devblitz_/)
+[![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/devblitz_)
 # 😎| Cool people #
 <p><a href="https://github.com/Crunnie">Crunnie 🐈</a> | big coder big bucks </p>
 
