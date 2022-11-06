@@ -1,4 +1,4 @@
-<img src="pumpkin-shortage-te-main-211022.png">
+
 
 # 👋| Welcome to my profile #
 
