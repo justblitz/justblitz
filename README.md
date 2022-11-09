@@ -7,6 +7,10 @@
 # 👨‍💻| About me #
     👋Hi, I am blitz an Italian guy🍕 passionate about computer science software & hardware and cyber security.
      I started my career in 2021 when we were still in pandemic (CoVid-19) with simple tools created a bit randomly on Python🐍 and it all started from there.
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/943578582247157810?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/943578582247157810)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/943578582247157810)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/943578582247157810)](https://dev.discordprofiles.me/openspotify/943578582247157810)
 
 # ⚙️| Skills #
 ![skill](https://skillicons.dev/icons?i=html,css,js,py,php,dotnet,discord,bots)
