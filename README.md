@@ -33,5 +33,7 @@
     2021-2022 Copyright © blitz
     Skill icon by skillicons.dev(https://github.com/tandpfun/skill-icons)
     Stats API by @rickstaa(https://github.com/anuraghazra/github-readme-stats)
+    Discord Stats by advaith and Ice(https://dev.discordprofiles.me/)
+    Discord Stats icons by shields.io(https://shields.io/)
 - - - - 
 <p><a href="mailto:contact@justsae.tk">📧 Contact Me</a>
