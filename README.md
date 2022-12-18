@@ -16,7 +16,7 @@
 ![skill](https://skillicons.dev/icons?i=html,css,js,py,php,dotnet,discord,bots)
 
 # ✏️| Skilled using #
-![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,unity,github,discord)
+![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,unity,github,discord,aws)
 
 # 📊| Stats #
 ![stats vote](https://github-readme-stats.vercel.app/api?username=justblitz&show_icons=true&theme=dark)
