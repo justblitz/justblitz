@@ -19,8 +19,8 @@
 ![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,unity,github,discord,aws)
 
 # 📊| Stats #
-![stats vote](https://github-readme-stats.vercel.app/api?username=justblitz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justblitz&show_icons=true&theme=dark&layout=compact)
+![stats vote](https://github-readme-stats.vercel.app/api?username=justblitz_&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justblitz_&show_icons=true&theme=dark&layout=compact)
 # 🔗Link//Social #
 [![instagram](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/devblitz_/)
 [![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/devblitz_)
