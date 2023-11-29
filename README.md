@@ -26,6 +26,13 @@
 [![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/devblitz_)
 # 😎| Cool people #
 <p><a href="https://github.com/Crunnie">Crunnie 🐈</a> | big coder big bucks </p>
+<hr     />
+
+> [!IMPORTANT]
+> Most of my project are in beta and im going to update some very soon.
+
+> [!NOTE]
+> Website avaible soon 👀.
 
 - - - - 
 
