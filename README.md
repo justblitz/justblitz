@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi, im Gab</h1>
+<h1 align="center">👋 Hi, im Gab :bowtie:	</h1>
 
 
 
