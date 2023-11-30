@@ -1,29 +1,22 @@
 
 
-# 👋| Welcome to my profile #
+<h1 align="center">👋 Hi, im Gab</h1>
 
-- - - - 
+
 
 # 👨‍💻| About me #
-    👋Hi, I am blitz an Italian guy🍕 passionate about computer science software & hardware and cyber security.
-     I started my career in 2021 when we were still in pandemic (CoVid-19) with simple tools created a bit randomly on Python🐍 and it all started from there.
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/943578582247157810?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/943578582247157810)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/943578582247157810)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/943578582247157810)](https://dev.discordprofiles.me/openspotify/943578582247157810)
-
+    Im a JDev from Italy, i started programming in 2019 small Python program and the same year i published my first website
+    i create stff for the web, mods and other stuff.
 # ⚙️| Skills #
-![skill](https://skillicons.dev/icons?i=html,css,js,py,php,dotnet,discord,bots)
+![skill](https://skillicons.dev/icons?i=html,css,js,py,php,dotnet,discord,bots,nodejs,react)
 
 # ✏️| Skilled using #
-![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,unity,github,discord,aws)
+![skilled using](https://skillicons.dev/icons?i=linux,raspberrypi,visualstudio,vscode,unreal,unity,github,discord,aws,blender,ps)
 
 # 📊| Stats #
 ![stats vote](https://github-readme-stats.vercel.app/api?username=justblitz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justblitz&show_icons=true&theme=dark&layout=compact)
-# 🔗Link//Social #
-[![instagram](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/devblitz_/)
-[![twitter](https://skillicons.dev/icons?i=twitter&perline=1)](https://twitter.com/devblitz_)
+
 # 😎| Cool people #
 <p><a href="https://github.com/Crunnie">Crunnie 🐈</a> | big coder big bucks </p>
 <hr     />
